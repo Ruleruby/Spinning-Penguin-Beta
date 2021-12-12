@@ -1,6 +1,0 @@
-Ellen Rubin worked on :
-    the whole (myGame) scene, including the assets and movement.
-    submitted the alpha through github, created links to source code and web GL build.
-
-Luke Maher worked on : 
-    The whole (Menu) scene, functions, buttons , text, backgrounds, linking to the game

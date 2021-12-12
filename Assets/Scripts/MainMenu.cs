@@ -11,9 +11,17 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
-    public void quitGame()
-    {
-        Application.Quit(); //Quit Game
+    // public void quitGame()
+    // {
+    //     Application.Quit(); //Quit Game
+    // }
+    public void openSourceCode(){
+        //Opens code in GitHub
+        Application.OpenURL("https://github.com/Ruleruby/Spinning-Penguin");
+    }
+
+    public void openWebGL(){
+        Application.OpenURL("https://ruleruby.github.io/Spinning-Penguin/");
     }
 
 }

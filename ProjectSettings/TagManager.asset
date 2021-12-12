@@ -6,6 +6,8 @@ TagManager:
   tags:
   - icecube
   - fish
+  - level2
+  - snowball
   layers:
   - Default
   - TransparentFX

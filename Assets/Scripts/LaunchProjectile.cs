@@ -5,7 +5,7 @@ using UnityEngine;
 public class LaunchProjectile : MonoBehaviour
 {
     public GameObject projectile;
-    public float launch = 600f;
+    public float launch = 800f;
     // Start is called before the first frame update
     void Start()
     {
