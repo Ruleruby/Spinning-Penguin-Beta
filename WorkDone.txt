@@ -1,0 +1,12 @@
+Ellen Rubin worked on :
+    the whole (myGame) scene, including the assets and movement.
+    submitted the alpha and Final through github, created links to source code.
+    Created the WebGL Build.
+    Sound effects upon collision
+    All scripting in "myGame" scene
+    Game over screen and scripting for score, high score and snowballs
+
+Luke Maher worked on : 
+    The whole (Menu) scene, functions, buttons , text, backgrounds, linking to the game
+    Music, instructions, setting up the texts for all of the menu and pause screen, adding  
+    functionality to the menu buttons, sound slider etc,  
